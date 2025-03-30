@@ -1,28 +1,47 @@
-# Zooparc
+# ZooParc
 
-**Zooparc** is a vibrant and engaging zoo experience offering a variety of wildlife and educational opportunities. The app allows users to explore animal exhibits, plan visits, purchase tickets, and learn about conservation efforts. With real-time updates, users can easily navigate the park and enjoy interactive features.
+Welcome to **ZooParc** – a comprehensive zoo management website where visitors can explore, purchase tickets, book events, and discover food options available in the zoo. 
 
-## Features
+## 🌿 Features
 
-- **Animal Exhibits**: Browse different animals and their habitats.
-- **Ticket Booking**: Reserve tickets directly from the app.
-- **Visit Planning**: View the park's layout, schedules, and events.
+- **🎟 Ticket Booking** – Customers can seamlessly purchase tickets online.
+- **📅 Event Reservations** – Users can book special zoo events in advance.
+- **🍔 Food & Refreshments** – A complete list of available food options for visitors.
+- **🦁 Zoo Information** – Learn about the animals, exhibits, and schedules.
 
-## Installation
+## 🛠 Technologies Used
 
-1. Clone the repository:  
-   `git clone https://github.com/your-repo/zooparc.git`
-   
-2. Install dependencies:  
-   `npm install`
-   
-3. Run the app:  
-   `npm start`
+ZooParc is built using a robust tech stack:
 
-## Contributing
+- **Frontend**: HTML, CSS, JavaScript
+- **Backend**: PHP
+- **Database**: MySQL
 
-Feel free to fork the repository, submit issues, or create pull requests.
+## 🚀 Getting Started
 
-## License
+Follow these steps to set up the project on your local server:
 
-This project is licensed under the MIT License.
+1. **Clone the Repository**
+   ```sh
+   git clone https://github.com/your-username/ZooParc.git
+   ```
+2. **Set Up the Database**
+   - Import the provided `.sql` file into MySQL.
+   - Update database credentials in `config.php`.
+
+3. **Run on Localhost**
+   - Start your local server (XAMPP, WAMP, or MAMP).
+   - Place the project folder inside the `htdocs` directory.
+   - Open `http://localhost/ZooParc` in your browser.
+
+## 📌 Contributing
+
+Contributions are welcome! Feel free to submit issues or pull requests to enhance the project.
+
+## 📄 License
+
+This project is open-source and available under the MIT License.
+
+---
+
+🐾 **Enjoy your visit to ZooParc!** 🦓🐘🐼
